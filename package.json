@@ -1,0 +1,22 @@
+{
+  "name": "atv-21-08-26",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node api.js"
+  },
+  "repository": {
+    "type": "module",
+    "url": "git+https://github.com/tigas1234/Atv-21-08-26.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/tigas1234/Atv-21-08-26/issues"
+  },
+  "homepage": "https://github.com/tigas1234/Atv-21-08-26#readme"
+}
